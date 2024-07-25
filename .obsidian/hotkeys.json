@@ -1,0 +1,26 @@
+{
+  "editor:delete-paragraph": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "file-explorer:new-file": [],
+  "editor:open-search": [],
+  "editor:open-search-replace": [],
+  "global-search:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "workspace:close": []
+}
