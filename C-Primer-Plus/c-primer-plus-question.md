@@ -128,9 +128,7 @@ excellent Czech.” Here’s a C example:
 thrice_n = 3 + n;
 ```
 
-4. Code question(detail see book)
-5.  // :TODO
-
+4-8. Easy not write answer
 
 # Chapter 15 Bit Fiddling
 
@@ -284,6 +282,6 @@ struct kb_driver {
 	unsigned int:                1;
 	unsigned int cdrom_drive:    2;
 	unsigned int:                1;
-	unsigned int: disk_driver:   2;
+	unsigned int: disk_driver
 }
 ```
